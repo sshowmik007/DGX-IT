@@ -6,7 +6,7 @@ const testimonials = [
 		name: "Sarah Johnson",
 		company: "TechStart Inc.",
 		quote:
-			"DGX-IT transformed our online presence. Our leads have increased by 150% since working with them!",
+			"DigiMarkPro transformed our online presence. Our leads have increased by 150% since working with them!",
 		rating: 5,
 	},
 	{
