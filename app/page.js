@@ -1,9 +1,10 @@
- 
-
+import HomePage from "@/pages";
 export default function Home() {
   return (
   <div>
-    Basic Setup Production
+
+        <HomePage/>
+
   </div>
   );
 }
