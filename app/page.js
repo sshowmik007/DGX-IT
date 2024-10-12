@@ -3,7 +3,7 @@
 export default function Home() {
   return (
   <div>
-    Basic Setup
+    Basic Setup development
   </div>
   );
 }
