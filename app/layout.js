@@ -16,6 +16,9 @@ const geistMono = localFont({
 export const metadata = {
   title: "DGX - IT",
   description: "Your Full Solution",
+  icons:{
+    icon:['/android-chrome-192x192.png']
+  }
 };
 
 export default function RootLayout({ children }) {
